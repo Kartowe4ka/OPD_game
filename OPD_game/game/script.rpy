@@ -21,6 +21,6 @@ label start:
 
     e "Piska"
 
-    e "Пизда"
+    e "Пизда123"
 
     return
